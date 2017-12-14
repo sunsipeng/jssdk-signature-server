@@ -1,0 +1,24 @@
+{
+  "name": "jssdkserver",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "babel-node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5",
+    "log4js": "^1.1.0",
+    "uuid-js": "^0.7.5",
+    "eventproxy": "^0.3.5",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
