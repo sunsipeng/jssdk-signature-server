@@ -21,3 +21,8 @@
 ## Config
 
 modify common/config.js
+
+
+## Author website
+
+http://www.sipeng.net
